@@ -1,0 +1,8 @@
+edge {
+    shape: line;
+	fill-color: #222;
+	arrow-size: 3px, 2px;
+}
+edge.linea1 {stroke-color: #23DD34; stroke-width: 1px; stroke-mode: plain;}
+edge.linea2 {stroke-color: #FC4539; stroke-width: 1px; stroke-mode: plain;}
+edge.linea3 {stroke-color: #48DBDF ; stroke-width: 1px; stroke-mode: plain;}
