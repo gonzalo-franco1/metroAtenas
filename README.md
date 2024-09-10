@@ -6,7 +6,7 @@ A program that allows to calculate the optimal route between Athens metro statio
 
 **How is it executed?**
 There is an executable .jar
-If you want to compile locally, the executable class with the main is ‘interfaceUser’.
+If you want to compile locally, the executable class with the main is ‘interfazUsuario’.
 
 **How does it work internally?**
 It takes into account realistic data on geographical distance between stations, metro travel time between stations and transfer times, obtained from www.emetro.gr.
