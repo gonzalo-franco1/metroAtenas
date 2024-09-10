@@ -5,7 +5,7 @@
 A program that allows to calculate the optimal route between Athens metro stations. 
 
 **How is it executed?**
-There is an executable .jar
+There is an executable .jar .
 If you want to compile locally, the executable class with the main is ‘interfazUsuario’.
 
 **How does it work internally?**
